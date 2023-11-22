@@ -9,6 +9,7 @@ function App() {
     <>
     <div className="app">
      <h1 dir ="rtl">Welcome to reactjs Mater branch</h1>
+     <p> hi mama</p>
      <MyCard/>
      <React/>
     </div>
