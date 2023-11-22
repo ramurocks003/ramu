@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <div className="app">
-     <h1 dir ="rtl">Welcome to javascript</h1>
+     <h1 dir ="rtl">Welcome to reactjs</h1>
      <MyCard/>
      <React/>
     </div>
